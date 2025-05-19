@@ -1,2 +1,2 @@
-# JSalcedoPruebaGH-01
-Esta es la tercera prueba de configuración de SnapDragonSpaces con Unity y Git
+# Bienvenidos
+Desgraciadamente aun no hay ninguna información.
